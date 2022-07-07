@@ -1,5 +1,5 @@
 <?php
-require __DIR__ . '/vendor/autoload.php';
+require  './vendor/autoload.php';
 use chillerlan\QRCode\{QRCode, QROptions}; 
 
 $code_data = base64_encode('SUJANEPANJAN'.time());
