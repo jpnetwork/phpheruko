@@ -1,3 +1,3 @@
 <?php
-
-echo 'Yes';
+require __DIR__ . '/vendor/autoload.php';
+echo __DIR__;
