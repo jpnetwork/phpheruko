@@ -1,4 +1,4 @@
 <?php
 #test UPDATE
-phpinfo() ;
+#phpinfo() ;
 
